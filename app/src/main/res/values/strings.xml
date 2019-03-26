@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mob_Lab2</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button1">New</string>
+    <string name="button2">Delete</string>
+    <string name="moreinfoheader">Headline</string>
+    <string name="moreinfo">There can be your note</string>
+</resources>
